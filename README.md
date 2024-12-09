@@ -8,5 +8,4 @@ My areas of interest include machine learning, natural language processing, info
 
 You can reach out to me on [Linkedin](https://www.linkedin.com/in/nicolastorzec/). Occasionally, I'm also on [X ~~Twitter~~](https://x.com/nicolastorzec). 
 
-___
 *PS: This `github` is primarily for personal projects, which I keep private.*
