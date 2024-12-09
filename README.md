@@ -4,7 +4,7 @@ My name is Nicolas Torzec. I am a Director of Research Engineering at Yahoo wher
 
 Previously, I spearheaded the development of the Yahoo Knowledge Graph and worked on related projects at Yahoo Labs. Prior to that, I developed web mining systems for Yahoo Search, price comparison solutions for Kelkoo and natural language processing technologies for France Telecom's Voice R&D unit. I also worked as a lecturer and researcher in computer science  at the University of Rennes, France.
 
-My areas of interest include machine learning, natural language processing, information extraction, large-scale data integration and management, knowledge graph construction and refinement, semantic search, entity recommendation and knowledge engineering.
+My areas of interest include machine learning, natural language processing, information extraction, data integration, knowledge graph construction and management, semantic search, entity recommendation and knowledge engineering.
 
 You can reach out to me on [Linkedin](https://www.linkedin.com/in/nicolastorzec/). Occasionally, I'm also on [X ~~Twitter~~](https://x.com/nicolastorzec). 
 
