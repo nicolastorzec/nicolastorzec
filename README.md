@@ -1,6 +1,6 @@
 # About Me
 
-I am a Director of Research Engineering at Yahoo where I (my team) develop technologies and solutions involving ML/AI and knowledge graphs for Web Search and E-Commerce.
+I am a Director of Research Engineering at Yahoo where I (my team) develop technologies and solutions leveraging ML/AI and knowledge graphs for Web Search and E-Commerce.
 
 Previously, I spearheaded the development of the Yahoo Knowledge Graph focusing on information extraction, data integration, knowledge graph construction, semantic search, entity recommendation and content understanding. 
 
