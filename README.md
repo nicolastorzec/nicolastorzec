@@ -6,6 +6,6 @@ Previously, I spearheaded the development of Yahoo's knowledge graph and product
 
 My areas of interest include machine learning, natural language processing, information extraction, data integration, knowledge graph construction and management, content understanding, search, recommendation, and knowledge engineering.
 
-I'm on [Linkedin](https://www.linkedin.com/in/nicolastorzec/) and occasionally on [X ~~Twitter~~](https://x.com/nicolastorzec). 
+I'm on [Linkedin](https://www.linkedin.com/in/nicolastorzec/) and occasionally on [~~Twitter~~ X](https://x.com/nicolastorzec). 
 
 *PS: This `github` is primarily for personal projects, which I keep private.*
