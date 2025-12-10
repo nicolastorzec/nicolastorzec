@@ -6,6 +6,6 @@
 
 ✦ Earlier in my career, I spearheaded the development of Yahoo’s knowledge graph and novel search &amp; recommendation systems at Yahoo Labs, built innovative web mining systems for Yahoo Search, developed online price comparison solutions for Kelkoo, and advanced natural language processing technologies for Orange R&D's voice unit. I also served as a lecturer and researcher at the University of Rennes, France.
 
-✦ My interests include AI/ML, data science, information extraction, data integration, knowledge management, knowledge graphs, commerce graphs, search, recommendation, content understanding, and knowledge engineering. Outside of work, I'm into endurance sports (🏊🏻🚴🏻‍♂️🏃🏻‍♂️), live music, and TV shows from all around the world.
+✦ My interests include AI/ML, data science, information extraction, data integration, knowledge management, knowledge graphs, commerce graphs, search, recommendation, content understanding, and knowledge engineering. Outside of work, I'm into endurance sports, live music, and TV shows from all around the world.
 
 *PS: This `github` is primarily for personal projects, which I keep private.*
