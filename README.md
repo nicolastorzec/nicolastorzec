@@ -1,6 +1,6 @@
 # About Me
 
-✦ I'm a Director of Data Science at Cardlytics, where I lead the Science and Engineering teams that develop the AI/ML and data systems in charge of understanding transaction data from financial institutions, constructing and enriching our commerce graph from merchant and transaction data, and generating insights about brands and stores. 
+✦ As director of Data Science at Cardlytics, I lead the Science and Engineering teams that develop the AI/ML and data systems in charge of understanding transaction data from financial institutions, constructing and enriching our commerce graph from merchant and transaction data, and generating insights about brands and stores. 
 
 ✦ Previously, I was a director of Research Engineering at Yahoo where I led the applied science team that developed Yahoo's knowledge graph and product graph, along with the search, recommendation and content understanding services built on top of them for Web Search and E-commerce.
 
